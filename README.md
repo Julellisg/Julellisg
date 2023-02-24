@@ -1,6 +1,6 @@
 <!--  -->
 # Hey! My name is Julian  (•◡•) /
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=3000&color=F76C7B&width=500&lines=Computer+science+student;Student+software+developer;And+an+eye+for+aesthetics!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=F73F3F&center=true&width=435&lines=*+Computer+Science+student+*;%2F%2F+Software+developer;%3C!-+-+Web+developer+-+-+%3E)](https://git.io/typing-svg)
 
 <!-- About me block -->
 ## Summary
