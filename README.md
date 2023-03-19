@@ -15,7 +15,7 @@
 <div align="center">
   <details>
       <summary><h2>Other Interests  <img src="src/gurawaveback.png" width="32"/></h2></summary>
-      <ul">
+      <ul>
         <li>Gaming enthusiast</li>
         <li>Snowboarding</li>
         <li>Graphics Design</li>
