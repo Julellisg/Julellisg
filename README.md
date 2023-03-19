@@ -11,6 +11,20 @@
     </ul>
   </details>
 
+<div align="center">
+  <details>
+      <summary><h2><img src="src/gurawaveback.png" width="32"/>  Other Interests</h2></summary>
+      <ul">
+        <li>Gaming enthusiast</li>
+        <li>Snowboarding</li>
+        <li>Graphics Design</li>
+        <li>Anime/Otaku Culture</li>
+        <li>Keyboard tinkering</li>
+        <li>Fitness/Gym
+      </ul>
+    </details>
+</div>
+  
   <details>
     <summary><h2><img src="src/gurawaveback.png" width="32"/>  Other Interests</h2></summary>
     <ul">
