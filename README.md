@@ -1,19 +1,20 @@
 <img src="src/banner.png" alt="banner of my name lol">
 
 <!-- About me block -->
-
-  <details>
-    <summary><h2><img src="src/gigachad.png" width="32"/>  About Me</h2></summary>
-    <ul>
-      <li>Currently a Computer Science student at Brock University in Canada.</li>
-      <li>My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
-      <li>Always searching to learn new skills!</li>
-    </ul>
-  </details>
+  <div align="center">
+    <details>
+      <summary><h2>About Me  <img src="src/gigachad.png" width="32"/></h2></summary>
+      <ul>
+        <li>Currently a Computer Science student at Brock University in Canada.</li>
+        <li>My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
+        <li>Always searching to learn new skills!</li>
+      </ul>
+    </details>
+  </div>
 
 <div align="center">
   <details>
-      <summary><h2><img src="src/gurawaveback.png" width="32"/>  Other Interests</h2></summary>
+      <summary><h2>Other Interests  <img src="src/gurawaveback.png" width="32"/></h2></summary>
       <ul">
         <li>Gaming enthusiast</li>
         <li>Snowboarding</li>
@@ -24,18 +25,6 @@
       </ul>
     </details>
 </div>
-  
-  <details>
-    <summary><h2><img src="src/gurawaveback.png" width="32"/>  Other Interests</h2></summary>
-    <ul">
-      <li>Gaming enthusiast</li>
-      <li>Snowboarding</li>
-      <li>Graphics Design</li>
-      <li>Anime/Otaku Culture</li>
-      <li>Keyboard tinkering</li>
-      <li>Fitness/Gym
-    </ul>
-  </details>
 
 <h2 align="center">🛠️ Programming Languages & Tools</h2>
 
@@ -73,7 +62,7 @@
     <img src="https://komarev.com/ghpvc/?username=Julellisg&style=for-the-badge&color=brightgreen">
 </div>
 <div style="align-items: center;">
-    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark&hide=issues" height="180">
+    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark" height="180">
     <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="180">
   
 </div>
