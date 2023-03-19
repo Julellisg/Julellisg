@@ -2,20 +2,18 @@
 
 <!-- About me block -->
   <div align="center">
-    <details>
-      <summary><h2>About Me  <img src="src/gigachad.png" width="32"/></h2></summary>
-      <ul>
+    <h2>About Me  <img src="src/gigachad.png" width="32"/></h2>
+      <ul style="list-style-position: inside">
         <li>Currently a Computer Science student at Brock University in Canada.</li>
         <li>My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
         <li>Always searching to learn new skills!</li>
       </ul>
-    </details>
   </div>
 
 <div align="center">
   <details>
-      <summary><h2>Other Interests  <img src="src/gurawaveback.png" width="32"/></h2></summary>
-      <ul>
+      <summary><h2 margin="0" padding="0">Other Interests  <img src="src/gurawaveback.png" width="32"/></h2></summary>
+      <ul style="list-style-position: inside">
         <li>Gaming enthusiast</li>
         <li>Snowboarding</li>
         <li>Graphics Design</li>
@@ -61,9 +59,9 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Julellisg&style=for-the-badge&color=brightgreen">
 </div>
-<div style="align-items: center;">
-    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark" height="180">
-    <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="180">
+<div style="align-items: center;" align="center">
+    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark" height="200">
+    <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="200">
   
 </div>
 
