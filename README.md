@@ -43,12 +43,13 @@
 </div>
 
 <h2 align="center">🤓 Nerd Stats</h2>
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=Julellisg&style=for-the-badge&color=brightgreen">
 </div>
-<div style="align-items: center;">
-  <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark&hide=issues" height="180">
-  <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="180">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="200">
+  <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark&hide=issues" height="200">
+  
 </div>
 
 <h2 align="center"><img src="src/gurawaveback.png" width="32" style="vertical-align: middle"/>  Other Interests</h2>
