@@ -43,12 +43,12 @@
 </div>
 
 <h2 align="center">🤓 Nerd Stats</h2>
-<div align="center">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img src="https://komarev.com/ghpvc/?username=Julellisg&style=for-the-badge&color=brightgreen">
 </div>
-<div style="display: flex; align-items: center;">
-  <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark">
-  <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C">
+<div style="align-items: center;">
+  <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark&hide=issues" height="180">
+  <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="180">
 </div>
 
 <h2 align="center"><img src="src/gurawaveback.png" width="32" style="vertical-align: middle"/>  Other Interests</h2>
@@ -62,6 +62,19 @@
   </ul>
 </div>
 
+<h2 align="center">📷 Socials</h2>
+<!-- Socials -->
+<div align="center">
+    <a href="https://github.com/Julellisg">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="mailto:julianellisg@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/julian-ellis-geronimo-5065961bb/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
 <!---
 Julellisg/Julellisg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
