@@ -1,30 +1,27 @@
 <img src="src/banner.png" alt="banner of my name lol">
 
 <!-- About me block -->
+<!-- Emojis: https://gist.github.com/rxaviers/7360908https://gist.github.com/rxaviers/7360908 -->
   <div align="center" width="50">
-    <h2>About Me  <img src="src/gigachad.png" width="32"/></h2>
-      <ul style="list-style-type: none;">
-        <li>♦ Currently a Computer Science student at Brock University 🇨🇦.</li>
-        <li>♦ My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
-        <li>♦ Always searching to learn new skills!</li>
-      </ul>
+    <h2>About Me &nbsp; <img src="src/gigachad.png" width="32"/></h2>
+     <p>⁍ &ensp; Currently a Computer Science student at Brock University :canada:.</p>
+     <p>⁍ &ensp; My ultimate career goal is to be a programming <b>wizard</b> in my field.</p>
+     <p>⁍ &ensp; Always searching to learn new skills!</p>
   </div>
 
 <div align="center">
   <details>
-      <summary><h2 margin="0" padding="0">Other Interests  <img src="src/gurawaveback.png" width="32"/></h2></summary>
-      <ul style="list-style-type: none;">
-        <li>🎮 Gaming enthusiast</li>
-        <li>🏂 Snowboarding</li>
-        <li>🖥️ Graphics Design</li>
-        <li>🇯🇵 Anime/Otaku Culture</li>
-        <li>⌨️ Keyboard tinkering</li>
-        <li>💪 Fitness/Gym
-      </ul>
+      <summary><h2 style="margin: 0px;">Interests/Hobbies &nbsp; <img src="src/gurawaveback.png" width="32"/></h2></summary>
+			<p>:video_game: &nbsp; Gaming enthusiast</p>
+			<p>:snowboarder: &nbsp; Snowboarding</p>
+			<p>🖥️ &nbsp; Graphics Design</p>
+			<p>:japan: &nbsp; Anime/Otaku Culture</p>
+			<p>⌨️ &nbsp; Keyboard tinkering</p>
+			<p>:muscle: &nbsp; Fitness/Gym</p>
     </details>
 </div>
 
-<h2 align="center">🛠️ Programming Languages & Tools</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <!-- Languages/Frameworks -->
 <div align="center">
@@ -38,6 +35,8 @@
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 </div>
+<br />
+
 <!-- Tools -->
 <div align="center">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -65,7 +64,7 @@
   
 </div>
 
-<!-- Socials -->
+<!-- Social Links -->
 <div align="center">
 <h2 align="center">📷 Socials</h2>
     <a href="https://github.com/Julellisg">
