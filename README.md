@@ -2,31 +2,26 @@
 
 <!-- About me block -->
 
-
-<div style="display: flex;">
-  <div style="flex: 0.5;">
-    <h2 align="center"><img src="src/gigachad.png" width="32" style="vertical-align: middle"/>  About Me</h2>
-    <ul style="text-align: center; list-style-position: inside;">
+  <details>
+    <summary><h2><img src="src/gigachad.png" width="32"/>  About Me</h2></summary>
+    <ul>
       <li>Currently a Computer Science student at Brock University in Canada.</li>
       <li>My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
       <li>Always searching to learn new skills!</li>
     </ul>
-  </div>
-  <div style="flex: 0.5;">
-    <h2 align="center"><img src="src/gurawaveback.png" width="32" style="vertical-align: middle"/>  Other Interests</h2>
-    <ul style="text-align: center; list-style-position: inside;">
+  </details>
+
+  <details>
+    <summary><h2><img src="src/gurawaveback.png" width="32"/>  Other Interests</h2></summary>
+    <ul">
       <li>Gaming enthusiast</li>
       <li>Snowboarding</li>
       <li>Graphics Design</li>
       <li>Anime/Otaku Culture</li>
       <li>Keyboard tinkering</li>
-      <li>Fitness/Gym</li>
+      <li>Fitness/Gym
     </ul>
-  </div>
-</div>
-
-
-
+  </details>
 
 <h2 align="center">🛠️ Programming Languages & Tools</h2>
 
