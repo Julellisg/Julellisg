@@ -3,23 +3,23 @@
 <!-- About me block -->
   <div align="center" width="50">
     <h2>About Me  <img src="src/gigachad.png" width="32"/></h2>
-      <ul>
-        <li>Currently a Computer Science student at Brock University in Canada.</li>
-        <li>My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
-        <li>Always searching to learn new skills!</li>
+      <ul style="list-style-type: none;">
+        <li>♦ Currently a Computer Science student at Brock University 🇨🇦.</li>
+        <li>♦ My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
+        <li>♦ Always searching to learn new skills!</li>
       </ul>
   </div>
 
 <div align="center">
   <details>
       <summary><h2 margin="0" padding="0">Other Interests  <img src="src/gurawaveback.png" width="32"/></h2></summary>
-      <ul>
-        <li>Gaming enthusiast</li>
-        <li>Snowboarding</li>
-        <li>Graphics Design</li>
-        <li>Anime/Otaku Culture</li>
-        <li>Keyboard tinkering</li>
-        <li>Fitness/Gym
+      <ul style="list-style-type: none;">
+        <li>🎮 Gaming enthusiast</li>
+        <li>🏂 Snowboarding</li>
+        <li>🖥️ Graphics Design</li>
+        <li>🇯🇵 Anime/Otaku Culture</li>
+        <li>⌨️ Keyboard tinkering</li>
+        <li>💪 Fitness/Gym
       </ul>
     </details>
 </div>
