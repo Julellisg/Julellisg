@@ -5,7 +5,7 @@
   <div align="center" width="50">
     <h2>About Me &nbsp; <img src="src/gigachad.png" width="32"/></h2>
      <p>⁍ &nbsp; Currently a Computer Science student at Brock University :canada:.</p>
-     <p>⁍ &nbsp; My ultimate goal is to be a programming <b>wizard</b> in my field.</p>
+     <p>⁍ &nbsp; My ultimate goal is to be a programming <b>wizard</b>.</p>
      <p>⁍ &nbsp; Always searching to learn new skills!</p>
   </div>
 
