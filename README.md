@@ -6,7 +6,7 @@
 <div">
   <ul">
     <li>Currently a Computer Science student at Brock University in Canada.</li>
-    <li>SnowboardiMy ultimate career goal is to be a programming <b>wizard</b>.ng</li>
+    <li>My ultimate career goal is to be a programming <b>wizard</b> in my field.</li>
     <li>Learning new things everyday!</li>
   </ul>
 </div>
@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"> 
 </div>
 <!-- Tools -->
 <div align="center">
@@ -44,12 +43,14 @@
 </div>
 
 <h2 align="center">🤓 Nerd Stats</h2>
-
-<div style="display: flex;">
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Julellisg&style=for-the-badge&color=brightgreen">
+</div>
+<div style="display: flex; align-items: center;">
   <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark">
   <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C">
 </div>
-
+oh 
 <h2 align="center"><img src="src/gurawaveback.png" width="32" style="vertical-align: middle"/>  Other Interests</h2>
 <div">
   <ul">
