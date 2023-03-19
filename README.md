@@ -46,9 +46,9 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Julellisg&style=for-the-badge&color=brightgreen">
 </div>
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="200">
-  <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark&hide=issues" height="200">
+<div style="align-items: center;">
+    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark&hide=issues" height="180">
+    <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="180">
   
 </div>
 
