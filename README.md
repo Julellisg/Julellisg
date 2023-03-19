@@ -50,7 +50,7 @@
   <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julellisg&show_icons=true&theme=aura_dark">
   <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C">
 </div>
-oh 
+
 <h2 align="center"><img src="src/gurawaveback.png" width="32" style="vertical-align: middle"/>  Other Interests</h2>
 <div">
   <ul">
