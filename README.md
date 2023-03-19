@@ -69,17 +69,6 @@
   
 </div>
 
-<h2 align="center"><img src="src/gurawaveback.png" width="32" style="vertical-align: middle"/>  Other Interests</h2>
-<div">
-  <ul">
-    <li>Gaming enthusiast</li>
-    <li>Snowboarding</li>
-    <li>Graphics Design</li>
-    <li>Anime/Otaku Culture</li>
-    <li>Keyboard tinkering</li>
-    <li>Fitness/Gym</li>
-  </ul>
-</div>
 <!-- Socials -->
 <div align="center">
 <h2 align="center">📷 Socials</h2>
