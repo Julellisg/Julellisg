@@ -3,7 +3,7 @@
 <!-- About me block -->
 <!-- Emojis: https://gist.github.com/rxaviers/7360908https://gist.github.com/rxaviers/7360908 -->
   <div align="center" width="50">
-    <h2>About Me &nbsp; <img src="src/gigachad.png" width="32"/></h2>
+    <h2>About Me &nbsp; <img src="images/gigachad.png" width="32"/></h2>
      <p>⁍ &nbsp; Currently a Computer Science student at Brock University :canada:.</p>
      <p>⁍ &nbsp; My ultimate goal is to be a programming <b>wizard</b>.</p>
      <p>⁍ &nbsp; Always searching to learn new skills!</p>
@@ -11,7 +11,7 @@
 
 <div align="center">
   <details>
-      <summary><h2 style="margin: 0px;">Interests/Hobbies &nbsp; <img src="src/gurawaveback.png" width="32"/></h2></summary>
+      <summary><h2 style="margin: 0px;">Interests/Hobbies &nbsp; <img src="images/gurawaveback.png" width="32"/></h2></summary>
 			<p>:video_game: &nbsp; Gaming enthusiast</p>
 			<p>:snowboarder: &nbsp; Snowboarding</p>
 			<p>🖥️ &nbsp; Graphics Design</p>
