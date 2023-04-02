@@ -1,4 +1,4 @@
-<img src="src/banner.png" alt="banner of my name lol">
+<img src="images/banner.png" alt="banner of my name lol">
 
 <!-- About me block -->
 <!-- Emojis: https://gist.github.com/rxaviers/7360908https://gist.github.com/rxaviers/7360908 -->
